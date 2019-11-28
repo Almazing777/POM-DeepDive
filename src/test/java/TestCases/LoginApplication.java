@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 public class LoginApplication {
 
     @Test
-    public void Login(){
+    public void login(){
 
         WebDriver driver = new ChromeDriver();
         driver.get("https://mail.rediff.com/cgi-bin/login.cgi");
