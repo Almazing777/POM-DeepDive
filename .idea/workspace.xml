@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbc25a2d-46d5-4c5b-90e9-9824f4e796aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCases/LoginApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/objectrepo/RediffLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/objectrepo/RediffHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCases/LoginApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCases/LoginApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/objectrepo/RediffLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/objectrepo/RediffLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestNG.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +41,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="objectrepo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/test/resources" />
@@ -51,6 +60,44 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/Almas/Documents/POM_DeepDive/src/test/resources/TestNG.xml">
+    <configuration name="LoginApplication.Login" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestCases.LoginApplication.Login&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="/Users/Almas/Documents/POM_DeepDive/src/test/resources/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="2.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/Almas/Documents/POM_DeepDive/src/test/resources/TestNG.xml" />
+        <item itemvalue="Gradle.LoginApplication.Login" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />

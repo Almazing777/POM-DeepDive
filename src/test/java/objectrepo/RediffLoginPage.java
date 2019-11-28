@@ -19,13 +19,22 @@ public class RediffLoginPage {
     By username = By.xpath(".//*[@id='login1']");
     By password = By.name("passwd");
     By go = By.name("proceed");
+    By home = By.linkText("Home");
 
-    public WebElement EmailID(){
+    public WebElement emailID(){
         return driver.findElement(username);
     }
 
-    public WebElement Password(){
+    public WebElement password(){
         return driver.findElement(password);
+    }
+
+    public WebElement submit(){
+        return driver.findElement(go);
+    }
+
+    public WebElement home(){
+        return driver.findElement(home);
     }
 
 }
